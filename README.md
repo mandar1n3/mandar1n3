@@ -1,6 +1,6 @@
-## <p align="center"> Hi there ! I am Mandarine :tangerine:</p>
+## Hi there ! I am Mandarine :tangerine:
 
-- A passionate web artisan, located in Belgium 
+- A passionate web artisan, located in Belgium
 - Curious, adaptable and eager to learn new technologies
 
 <!--
