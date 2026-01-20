@@ -1,4 +1,7 @@
-## Hi there 👋
+## <p align="center"> Hi there ! I am Mandarine :tangerine:</p>
+
+- A passionate web artisan, located in Belgium 
+- Curious, adaptable and eager to learn new technologies
 
 <!--
 **mandar1n3/mandar1n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
