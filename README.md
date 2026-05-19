@@ -1,7 +1,11 @@
 ## Hi there ! I am Mandarine :tangerine:
 
-- A passionate web artisan, located in Belgium
-- Curious, adaptable and eager to learn new technologies
+A passionate web artisan, located in Belgium,
+Interested in building software for a more open and accessible web.
+
+Tech : 
+
+React · Javascript/Typescript · Python · HTML/CSS 
 
 <!--
 **mandar1n3/mandar1n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
