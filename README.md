@@ -1,6 +1,6 @@
 ## Hi there ! I am Mandarine :tangerine:
 
-Just a lad fascinated by the world of computing and its seemingly endless possibilities,
+Just a lad fascinated by the world of computing and its seemingly endless possibilities
 to enhance the human experience.
 
 Currently on my first year of a bachelor degree in compture science 🧑‍🎓
